@@ -28,7 +28,7 @@ body {
 </head>
 <body>
 <div id="main_container">
-
+<div> over and out </div>
 <a href="javascript:void(0)" onclick="javascript:chatWith('janedoe')">Chat With Jane Doe</a>
 <a href="javascript:void(0)" onclick="javascript:chatWith('babydoe')">Chat With Baby Doe</a>
 <!-- YOUR BODY HERE -->
